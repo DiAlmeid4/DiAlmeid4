@@ -22,17 +22,17 @@
 
 <p align="center">
   <!-- GitHub Stats e Most Used Languages lado a lado -->
-  <img src="https://github-readme-stats.vercel.app/api?username=almethecapable&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almethecapable&layout=compact&theme=tokyonight" alt="Most Used Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DiAlmeid4&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiAlmeid4&layout=compact&theme=tokyonight" alt="Most Used Languages" height="180px"/>
 </p>
 
 <p align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=almethecapable&theme=tokyonight" alt="Current Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiAlmeid4&theme=tokyonight" alt="Current Streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/almethecapable/almethecapable/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/DiAlmeid4/DiAlmeid4/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
 
